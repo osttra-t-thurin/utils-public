@@ -1,0 +1,4 @@
+template_trade_id,buy_sell,payer_receiver,instrument_type,start_date,end_date,currency1,currency2,notional1,notional2,amount_currency,usd_fx_rate,pv,risk_Risk_FX/CNY///,risk_Risk_FX/EUR///,risk_Risk_FX/GBP///,risk_Risk_FX/USD///
+FXNDF_USDCNY,SELL,,FXNDF,2019-01-29,2019-02-29,USD,CNY,1000000,,USD,1,0,10000,0,0,-10000
+FXNDF_USDEUR,SELL,,FXNDF,2019-01-29,2019-02-29,USD,EUR,1000000,,USD,1,0,0,10000,0,-10000
+FXNDF_USDGBP,SELL,,FXNDF,2019-01-29,2019-02-29,USD,GBP,1000000,,USD,1,0,0,0,10000,-10000
